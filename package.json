@@ -1,0 +1,11 @@
+{
+  "name": "byu-job-coding-challenge",
+  "version": "1.0.0",
+  "description": "check for repos in a github organization that don't have licenses; for each repo that doesn't have a license, make a pull request to add one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Olson",
+  "license": "ISC"
+}
