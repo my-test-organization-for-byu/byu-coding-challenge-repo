@@ -5,3 +5,5 @@ I couldn't get creating a pull request to work properly; I haven't figured out h
 I decided to leave all of my code in here as well so that you can see everything I tried. I'll admit, the code is sloppy, but I thought it would be better to show everything I did.
 
 I wish I had had more time to work on this, and I honestly think I'm not that far off from a solution, but the poor time management is on me.
+
+I should add that I was able to get all repos (at least the public ones that I tested) and see if they had licenses or not. So I did the first part, but I didn't finish the second part/creating the pull requests.
